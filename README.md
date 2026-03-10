@@ -4,6 +4,12 @@ Source code and experiments for the paper “Forecasting and Downscaling Solar I
 ## Citation
 If you reference this paper or use this code in your work, please cite our IEEE Kiel PowerTech 2025 paper:
 
+
+## Dataset
+1. 5 min Solar Irradiance (Local Data) - https://ambientweather.net/
+2. 15 min GHI (Global Data) - https://open-meteo.com/
+
+
 @inproceedings{peter2025forecasting,
   title={Forecasting and downscaling solar irradiance using transformer models},
   author={Peter, Jesto and Suvedi, Abhilasha and Hansen, Timothy M and Rekabdarkolaee, Hossein Moradi},
